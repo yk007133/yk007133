@@ -7,27 +7,26 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yk007133&label=Profile%20views&color=0e75b6&style=flat" alt="yk007133" /> </p> 
 
-🎓 B.Tech CSE Student at Medicaps University   
+- 🎓 B.Tech CSE Student at **Medicaps University**   
 
-💻 Passionate about Python, Web Development & AI 
+- 💻 Passionate about **Python, Web Development & AI** 
 
-🚀 Currently learning Data Structures and Algorithms 
+- 🚀 Currently learning **Data Structures and Algorithms** 
 
-📚 Always eager to learn new technologies  
+- 📚 Always eager to learn **new technologies**  
 
-📫 Let's connect on :
+- 📫 Let's connect on :  **ykhandelwal158@gmail.com**
 
 <p align="left">
-<a href="www.linkedin.com/in/yash-khandelwal-cse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash khandelwal" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/yash-khandelwal-cse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash khandelwal" height="30" width="40" /></a>    <img align="center" src="https://github.com/user-attachments/assets/e5d89298-75dc-4f55-84cd-fcbba276a45b"  height="30" width="40" /> 
+</p> 
 
-<a href="www.linkedin.com/in/yash-khandelwal-cse" target="blank"><img align="center" src="https://github.com/user-attachments/assets/ff8ccd07-0e5a-40aa-9fcb-9b054a63624" alt="yash khandelwal" height="30" width="40" /></a>
-</p>
+
 
 
 
 
   
-
 
 
   
