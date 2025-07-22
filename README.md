@@ -1,10 +1,36 @@
-<h2 align="left">Hi 👋! My name is Yash Khandelwal </h2>
+<h2 align="center">Hi 👋, I'm Yash Khandelwal </h2>
 
-<h2 align="left">I'm a Python Developer, from India</h2>
+<h3 align="center">I'm a Passionate Learner</h3>
 
 <br>
 <img align="right" width="550" height="250" src="https://github.com/user-attachments/assets/da80fa96-adc0-471a-b4ef-1692f2308bc5"  />
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yk007133&label=Profile%20views&color=0e75b6&style=flat" alt="yk007133" /> </p> 
+
+🎓 B.Tech CSE Student at Medicaps University   
+
+💻 Passionate about Python, Web Development & AI 
+
+🚀 Currently learning Data Structures and Algorithms 
+
+📚 Always eager to learn new technologies  
+
+📫 Let's connect on :
+
+<p align="left">
+<a href="www.linkedin.com/in/yash-khandelwal-cse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash khandelwal" height="30" width="40" /></a>
+
+<a href="www.linkedin.com/in/yash-khandelwal-cse" target="blank"><img align="center" src="https://github.com/user-attachments/assets/ff8ccd07-0e5a-40aa-9fcb-9b054a63624" alt="yash khandelwal" height="30" width="40" /></a>
+</p>
+
+
+
+
+  
+
+
+
+  
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
