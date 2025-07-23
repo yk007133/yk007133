@@ -1,15 +1,5 @@
 <h2 align="center">Hi 👋, I'm Yash Khandelwal </h2>
 
-<p align="center">
-  <img src="https://em-content.zobj.net/source/microsoft-teams/363/fire_1f525.png" width="50"/>
-  <b>Hi 👋, I'm Yash Khandelwal</b>
-  <img src="https://em-content.zobj.net/source/microsoft-teams/363/fire_1f525.png" width="50"/>
-</p>
-
-<p align="center">
-  I'm a Passionate Learner
-</p>
-
 <h3 align="center">I'm a Passionate Learner</h3>
 
 <br>
