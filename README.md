@@ -3,7 +3,7 @@
 <h3 align="center">I'm a Passionate Learner</h3>
 
 <br>
-<img align="right" width="550" height="300" src="https://github.com/user-attachments/assets/da80fa96-adc0-471a-b4ef-1692f2308bc5"  />
+<img align="right" width="550" height="300" src="https://github.com/user-attachments/assets/f46ac1e7-0894-46d0-88b9-40a95889f924"  />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yk007133&label=Profile%20views&color=0e75b6&style=flat" alt="yk007133" /> </p> 
 
